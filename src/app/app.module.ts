@@ -16,6 +16,7 @@ import {
   MatTabsModule,
   MatListModule,
   MatDividerModule,
+  MatIconModule,
 } from '@angular/material';
 
 import {} from '@angular/material/paginator';
@@ -39,6 +40,7 @@ import { CommonModule } from '@angular/common';
     MatTabsModule,
     MatListModule,
     MatDividerModule,
+    MatIconModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
