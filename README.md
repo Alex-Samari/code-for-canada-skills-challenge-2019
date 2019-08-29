@@ -1,4 +1,4 @@
-# CodeForCanadaSkillChallenge
+# Code For Canada Skills Challenge 2019
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
 
